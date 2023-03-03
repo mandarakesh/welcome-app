@@ -1,0 +1,14 @@
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #f0bb03;
+}
+.para {
+  color: white;
+}
